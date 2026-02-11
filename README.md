@@ -1,6 +1,3 @@
-<img width="442" height="660" alt="image" src="https://github.com/user-attachments/assets/dab587d6-abe0-44ce-89ec-62bf9b5c21e1" /># EDA_Modulo4
-En este repositorio, recogeré el análisis descriptivo y el informe explicativo de la BBDD elegida para este proyecto. 
-
 **Uso de redes sociales y su relación con indicadores de salud mental en jóvenes (18–22 años)**
 
 ## 🎯 Contexto
