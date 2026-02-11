@@ -67,8 +67,4 @@ En cuanto a los indicadores de salud mental, los resultados preliminares muestra
 
 ## 🛠️ Tecnologías
 -Excel 
-## 🚀 Cómo usar
-1. Clonar el repositorio.
-2. Instalar librerías: `pip install -r requirements.txt`.
-3. Abrir `EDA_final.ipynb`.
 
