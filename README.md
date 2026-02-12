@@ -1,9 +1,9 @@
 **Uso de redes sociales y su relación con indicadores de salud mental en jóvenes (18–22 años)** 📲
 
-## 🎯 Contexto
+**Contexto**
 Este proyecto realiza un análisis exploratorio detallado sobre uso de redes sociales con el objetivo de identificar factores clave que afectan a salud mental en jóvenes (18–22 años)
 
-## 📊 Dataset
+**Dataset**
 - **Fuente:**: https://www.kaggle.com/datasets/bertnardomariouskono/social-media-and-mental-health
 - **Descripción:** El conjunto de datos incluye 8000 registros y 15 columnas.
 - **Diccionario:**
@@ -23,7 +23,7 @@ Este proyecto realiza un análisis exploratorio detallado sobre uso de redes soc
       PHQ_9_Score: Depression score (0-27).
       PHQ_9_Severity: Categorical interpretation (None to Severe).
 
-## 🛠️ Metodología
+**Metodología**
 1.  **Limpieza:**
    - No se identificaron valores nulos, faltantes ni registros duplicados en ninguna de las columnas
    - Se corrigió el formato numérico de las columnas “Daily_Screen_Time_Hours” y “Sleep_Duration_Hours”
@@ -39,7 +39,7 @@ Este proyecto realiza un análisis exploratorio detallado sobre uso de redes soc
     El 37,94% de los participantes continúa activo en redes sociales después de las 00:00. En relación con este comportamiento, se observa que el promedio de horas de sueño se sitúa en torno a las 6 horas diarias.
 En cuanto a los indicadores de salud mental, los resultados preliminares muestran que el 8,15% de los encuestados obtuvo una puntuación de 0 en la escala de ansiedad (máximo 21 puntos), mientras que únicamente el 0,11% alcanzó la puntuación máxima. Respecto a la escala de depresión, el 23,23% obtuvo una puntuación de 0, y solo el 0,03% alcanzó la puntuación máxima de 22.
 
-## 📈 Hallazgos Principales
+**Hallazgos Principales**
 
           Caracterización de la muestra
       La muestra analizada está compuesta por 8.000 jóvenes con edades comprendidas entre los 18 y 22 años. La distribución por género es prácticamente equitativa, con un 50,35% de mujeres y un 49,65% de hombres, lo que permite analizar los resultados sin un sesgo significativo asociado a esta variable.
@@ -65,6 +65,39 @@ En cuanto a los indicadores de salud mental, los resultados preliminares muestra
       Los resultados descriptivos evidencian la presencia simultánea de patrones elevados de uso digital y una proporción considerable de indicadores de malestar psicológico.
       Es importante precisar que este estudio describe patrones y distribuciones dentro de la muestra, pero no permite afirmar que el uso de redes sociales sea la causa de los niveles de ansiedad o depresión identificados.
 
-## 🛠️ Tecnologías
--Excel 
+🗂️ Estructura del Proyecto
+
+├── data/                # Dataset original y dataset limpio
+├── Word file            # Análisis exploratorio y transformación de datos
+├── dashboard/           # Archivo del dashboard final
+├── report/Word file     # Informe explicativo del análisis
+├── README.md            # Descripción del proyecto
+
+**Resultados y Conclusiones**
+
+El tiempo promedio de uso de redes sociales es de 4,5 horas diarias.
+
+El 37,94% de los participantes declara actividad después de las 00:00 horas.
+
+El promedio de sueño se sitúa en 5,8 horas diarias.
+
+Se observa una presencia relevante de sintomatología ansiosa y depresiva en niveles leves y moderados.
+
+TikTok e Instagram se posicionan como las plataformas predominantes en la muestra.
+
+El análisis evidencia la coexistencia de hábitos digitales intensivos y una proporción significativa de malestar psicológico en la población estudiada. No obstante, el diseño transversal y descriptivo del estudio no permite establecer relaciones causales entre las variables.
+
+**Próximos Pasos**
+
+Realizar análisis inferenciales para evaluar asociaciones estadísticas entre variables.
+
+Aplicar modelos de regresión para identificar predictores significativos.
+
+Explorar diferencias por género o intensidad de uso.
+
+Incorporar análisis longitudinal en futuros estudios.
+
+**Contribuciones**
+
+Este proyecto forma parte de un trabajo académico de máster. No obstante, cualquier sugerencia o mejora metodológica es bienvenida.
 
