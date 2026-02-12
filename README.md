@@ -1,4 +1,4 @@
-**Uso de redes sociales y su relación con indicadores de salud mental en jóvenes (18–22 años)**
+**Uso de redes sociales y su relación con indicadores de salud mental en jóvenes (18–22 años)** 📲
 
 ## 🎯 Contexto
 Este proyecto realiza un análisis exploratorio detallado sobre uso de redes sociales con el objetivo de identificar factores clave que afectan a salud mental en jóvenes (18–22 años)
@@ -42,14 +42,14 @@ En cuanto a los indicadores de salud mental, los resultados preliminares muestra
 ## 📈 Hallazgos Principales
 
           Caracterización de la muestra
-      La muestra analizada está compuesta por 8.000 jóvenes con edades comprendidas entre los 18 y 22 años. La distribución por género es prácticamente equitativa, con un 50,35% de mujeres y un 49,65% de hombres, lo que permite analizar los             resultados sin un sesgo significativo asociado a esta variable.
-      En cuanto al perfil digital, TikTok se posiciona como la plataforma predominante, seguida de Instagram y Twitter/X. El tipo de contenido más consumido se asocia principalmente a categorías de Lifestyle y Fashion, lo que sugiere una                orientación hacia contenidos aspiracionales, de imagen y estilo de vida.
+      La muestra analizada está compuesta por 8.000 jóvenes con edades comprendidas entre los 18 y 22 años. La distribución por género es prácticamente equitativa, con un 50,35% de mujeres y un 49,65% de hombres, lo que permite analizar los resultados sin un sesgo significativo asociado a esta variable.
+      En cuanto al perfil digital, TikTok se posiciona como la plataforma predominante, seguida de Instagram y Twitter/X. El tipo de contenido más consumido se asocia principalmente a categorías de Lifestyle y Fashion, lo que sugiere una orientación hacia contenidos aspiracionales, de imagen y estilo de vida.
           Hábitos de uso de redes sociales
-      El tiempo promedio de uso diario de redes sociales se sitúa en 4,5 horas. Esta cifra representa aproximadamente el 19% del total de horas del día, lo que indica una integración intensiva de las plataformas digitales en la rutina cotidiana         de los participantes.
-      Asimismo, el 37,94% de los encuestados declara permanecer activo en redes sociales después de las 00:00 horas. Este comportamiento nocturno se relaciona con una reducción del descanso, observándose un promedio de 5,8 horas de sueño diario,        cifra inferior a las recomendaciones habituales para este grupo etario.
+      El tiempo promedio de uso diario de redes sociales se sitúa en 4,5 horas. Esta cifra representa aproximadamente el 19% del total de horas del día, lo que indica una integración intensiva de las plataformas digitales en la rutina cotidiana de los participantes.
+      Asimismo, el 37,94% de los encuestados declara permanecer activo en redes sociales después de las 00:00 horas. Este comportamiento nocturno se relaciona con una reducción del descanso, observándose un promedio de 5,8 horas de sueño diario, cifra inferior a las recomendaciones habituales para este grupo etario.
       Estos datos evidencian un patrón de uso elevado y potencialmente invasivo en términos de tiempo y descanso.
           Indicadores de ansiedad
-      La distribución de la escala de ansiedad muestra que una proporción reducida de la muestra presenta puntuaciones extremas. El 8,15% obtiene una puntuación mínima (0), mientras que el porcentaje de personas que alcanza la puntuación más alta       posible en la escala es muy bajo, prácticamente residual dentro de la muestra.
+      La distribución de la escala de ansiedad muestra que una proporción reducida de la muestra presenta puntuaciones extremas. El 8,15% obtiene una puntuación mínima (0), mientras que el porcentaje de personas que alcanza la puntuación más alta posible en la escala es muy bajo, prácticamente residual dentro de la muestra.
       Sin embargo, el análisis categórico permite observar una presencia relevante de niveles leves y moderados, lo que sugiere que una parte significativa de la muestra experimenta sintomatología ansiosa en distintos grados.
       Lo más relevante no son los casos extremos, sino la cantidad de jóvenes que presentan niveles leves o moderados de ansiedad, lo que sugiere que este tipo de sintomatología podría estar relativamente extendida y “normalizada” en la muestra.
           Indicadores de depresión
