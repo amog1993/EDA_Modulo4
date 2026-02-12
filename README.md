@@ -40,7 +40,6 @@ Este proyecto realiza un análisis exploratorio detallado sobre uso de redes soc
 En cuanto a los indicadores de salud mental, los resultados preliminares muestran que el 8,15% de los encuestados obtuvo una puntuación de 0 en la escala de ansiedad (máximo 21 puntos), mientras que únicamente el 0,11% alcanzó la puntuación máxima. Respecto a la escala de depresión, el 23,23% obtuvo una puntuación de 0, y solo el 0,03% alcanzó la puntuación máxima de 22.
 
 **Hallazgos Principales**
-
           Caracterización de la muestra
       La muestra analizada está compuesta por 8.000 jóvenes con edades comprendidas entre los 18 y 22 años. La distribución por género es prácticamente equitativa, con un 50,35% de mujeres y un 49,65% de hombres, lo que permite analizar los resultados sin un sesgo significativo asociado a esta variable.
       En cuanto al perfil digital, TikTok se posiciona como la plataforma predominante, seguida de Instagram y Twitter/X. El tipo de contenido más consumido se asocia principalmente a categorías de Lifestyle y Fashion, lo que sugiere una orientación hacia contenidos aspiracionales, de imagen y estilo de vida.
@@ -65,13 +64,13 @@ En cuanto a los indicadores de salud mental, los resultados preliminares muestra
       Los resultados descriptivos evidencian la presencia simultánea de patrones elevados de uso digital y una proporción considerable de indicadores de malestar psicológico.
       Es importante precisar que este estudio describe patrones y distribuciones dentro de la muestra, pero no permite afirmar que el uso de redes sociales sea la causa de los niveles de ansiedad o depresión identificados.
 
-🗂️ Estructura del Proyecto
+**Estructura del Proyecto**
 
-├── data/                # Dataset original y dataset limpio
-├── Word file            # Análisis exploratorio y transformación de datos
-├── dashboard/           # Archivo del dashboard final
-├── report/Word file     # Informe explicativo del análisis
-├── README.md            # Descripción del proyecto
+Data/CSV             # Dataset original y dataset limpio
+Word file            # Análisis exploratorio y transformación de datos
+Dashboard/ Excel     # Archivo del dashboard final
+Report/Word file     # Informe explicativo del análisis
+README.md            # Descripción del proyecto
 
 **Resultados y Conclusiones**
 
